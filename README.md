@@ -1,4 +1,4 @@
-**Name:]n** KANKANALA ALEKHYA LAKSHMI
+**Name:\n** KANKANALA ALEKHYA LAKSHMI
 **Company:** CODTECH IT SOLUTIONS
 **id:** CT4MEVQ
 **Domain:** Python Programming
